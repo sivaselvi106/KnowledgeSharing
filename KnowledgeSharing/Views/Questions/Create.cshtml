@@ -1,0 +1,41 @@
+﻿@model KnowledgeSharing.ViewModels.QuestionViewModel
+@{
+    ViewBag.Title = "Create Question";
+}
+
+<div class="row">
+    <div class="col-sm-12">
+        <h1>Create Question</h1>
+        <form action="/questions/create" method="post">
+            @Html.AntiForgeryToken()
+            <div class="form-row">
+                <div class="form-group col-sm-12">
+                    <label for="txtQuestionName">Question</label>
+                    <textarea class="form-control" id="QuestionName" placeholder="Enter question" name="QuestionName" required="required" onchange="validateQuestion()"></textarea>
+                  <span id="checkQuestion">
+                  </span>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-sm-6">
+                    <label for="drpCategory">Category</label>
+                    <select class="form-control" id="drpCategory" name="CategoryID" required="required" onclick="validateCategory()">
+                        <option value="">Please Select</option>
+                        @foreach (var item in ViewBag.Categories)
+                        {
+                            <option value="@item.CategoryID">@item.CategoryName</option>
+                        }
+                    </select>
+                    <span id="checkCategory">
+
+                    </span>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Add Question</button>
+            @Html.ValidationSummary()
+        </form>
+    </div>
+</div>
+

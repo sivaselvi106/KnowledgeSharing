@@ -1,0 +1,20 @@
+﻿.navbar {
+    background-color: indianred;
+}
+
+    .navbar a:link, .navbar a:visited {
+        color: white !important;
+    }
+.dropdown-menu a:hover {
+    color: black !important;
+}
+.navbar a:hover {
+    color: #0dedd1 !important;
+}
+/*.hidden{
+    display : none;
+}*/
+.row.content {
+    padding-right: 15px;
+    padding-left: 15px;
+}

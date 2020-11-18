@@ -1,0 +1,197 @@
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Home/Views/Account/Login.cshtml' is forbidden., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Views/Account/Login.cshtml' was not found., Type: System.Web.HttpException, Source: System.Web
+Message: Path '/Views/Account/Login.cshtml' was not found., Type: System.Web.HttpException, Source: System.Web
+Message: The required anti-forgery form field "__RequestVerificationToken" is not present., Type: System.Web.Mvc.HttpAntiForgeryException, Source: System.Web.WebPages
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/question/create' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'home' was not found on controller 'KnowledgeSharing.Controllers.AccountController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'PageRedirect' was not found on controller 'KnowledgeSharing.Controllers.HomeController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The required anti-forgery form field "__RequestVerificationToken" is not present., Type: System.Web.Mvc.HttpAntiForgeryException, Source: System.Web.WebPages
+Message: A public action method 'GetIDPresentOrNot' was not found on controller 'KnowledgeSharing.Controllers.AccountController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The required anti-forgery form field "__RequestVerificationToken" is not present., Type: System.Web.Mvc.HttpAntiForgeryException, Source: System.Web.WebPages
+Message: A potentially dangerous Request.Path value was detected from the client (:)., Type: System.Web.HttpException, Source: System.Web
+Message: A potentially dangerous Request.Path value was detected from the client (:)., Type: System.Web.HttpException, Source: System.Web
+Message: A potentially dangerous Request.Path value was detected from the client (:)., Type: System.Web.HttpException, Source: System.Web
+Message: A potentially dangerous Request.Path value was detected from the client (:)., Type: System.Web.HttpException, Source: System.Web
+Message: A potentially dangerous Request.Path value was detected from the client (:)., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'UpdateCount' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The process cannot access the file 'C:\Users\hp\source\repos\KnowledgeSharing-master\KnowledgeSharing\ErrorLog.txt' because it is being used by another process., Type: System.IO.IOException, Source: mscorlib
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: A public action method 'login.aspx' was not found on controller 'KnowledgeSharing.Controllers.QuestionsController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot modify cookies after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot modify cookies after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot modify cookies after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot modify cookies after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Cannot redirect after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: The process cannot access the file 'C:\Users\hp\source\repos\KnowledgeSharing-master\KnowledgeSharing\ErrorLog.txt' because it is being used by another process., Type: System.IO.IOException, Source: mscorlib
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web

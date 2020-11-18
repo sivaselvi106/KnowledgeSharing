@@ -1,0 +1,44 @@
+﻿@model List<KnowledgeSharing.ViewModels.QuestionViewModel>
+@{ ViewBag.Title = "Home"; }
+
+
+<div class="row content">
+    <div class="col-sm-12"></div>
+    <table class="table">
+        @foreach (var items in Model)
+        {
+            Html.RenderPartial("_Question", items);
+        }
+    </table>
+    <div>
+            <a href="/Questions/Create" class="btn btn-primary">Add Question</a>
+    </div>
+</div>
+@*<script>
+        function myFunction(url,callbackFunction) {
+        onclick="myFunction('/Account/Login',cbFunction)"
+        }
+       // var userId = Int32.Parse(Session["CurrentUserId"]);
+       // alert(userId);
+        //function loadDoc() {
+        //    var xhttp = new XMLHttpRequest();
+        //    xhttp.onreadystatechange = function () {
+        //        if (this.readyState == 4 && this.status == 200) {
+        //            document.getElementById("demo").innerHTML =
+        //                this.responseText;
+        //        }
+        //    };
+        //    xhttp.open("GET", "ajax_info.txt", true);
+        //    xhttp.send();
+        //}
+        //function myFunction() {
+        //    $.ajax({
+        //        type: "POST",
+        //        url: "/Questions/Create",
+        //        success: function (data) {
+        //           // alert("Please login to continue!!!")
+        //            window.location.href = "/Questions/Create";
+        //        }
+        //    })
+        //}
+    </script>*@

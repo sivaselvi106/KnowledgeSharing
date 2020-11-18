@@ -1,0 +1,32 @@
+﻿@model List<KnowledgeSharing.ViewModels.QuestionViewModel>
+@{
+    ViewBag.Title = "Home";
+}
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="jumbotron">
+            <h1>Learn, Unlearn, Relearn</h1>
+            <h3>Are you a DotNet Developer? Learn, Share your knowledge and help others to build their careers. </h3>
+            <p class="lead">Join the world's Largest Developer Community.</p>
+        </div>
+
+    </div>
+</div>
+
+<div class="row content"   >
+    <div class="col-sm-12"></div>
+    <table class="table">
+        @foreach (var items in Model)
+        {
+            Html.RenderPartial("_Question", items);
+        }
+    </table>
+    <div>
+        @if(Session["CurrentUserName"] != null)
+        {
+            <a href="/Questions/create" class="btn btn-primary">Add Question</a>
+        }
+    </div>
+</div>
+

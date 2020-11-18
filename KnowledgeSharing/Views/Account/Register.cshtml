@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Register";
+}
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <h1>Registration</h1>
+        <form action="/account/register" method="post">
+            @Html.AntiForgeryToken()
+
+            <div class="form-row">
+                <div class="form-group col-sm-12">
+                    <label for="txtName">Name</label>
+                    <input type="text" class="form-control" id="Name" placeholder="Enter name" name="Name" required="required" onchange="validateUserName()" />
+                    <span id="userName">
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-sm-6">
+                    <label for="txtEmail">Email</label>
+                    <input type="email" class="form-control" id="Email" placeholder="Email" name="Email" required="required" onchange="validateEmail()" />
+                    @Html.ValidationMessage("x",new { @class = "text-danger" })
+                    <span id="mailId">
+                    </span>
+                </div>
+
+                <div class="form-group col-sm-6">
+                    <label for="txtMobile">Mobile</label>
+                    <input type="text" class="form-control" id="MobileNumber" placeholder="Mobile" name="Mobile" required="required" maxlength="10" onchange="validateMobileNumber()" />
+                    <span id="mobileNumber">
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-sm-6">
+                    <label for="txtPassword">Password</label>
+                    <input type="password" class="form-control" id="Password" placeholder="Password" name="Password" required="required" onchange="validatePassword()" />
+                    <span id="password">
+                    </span>
+                </div>
+
+                <div class="form-group col-sm-6">
+                    <label for="txtPassword">Confirm Password</label>
+                    <input type="password" class="form-control" id="ConfirmPassword" placeholder="Confirm Password" name="ConfirmPassword" required="required" onchange="validateConfirmPassword()" />
+                    <span id="confirmpassword">
+                    </span>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Register</button>
+        </form>
+    </div>
+</div>
