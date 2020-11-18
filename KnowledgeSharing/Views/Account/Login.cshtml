@@ -2,30 +2,32 @@
 
 @{
     ViewBag.Title = "Login";
+
 }
-    <h1>Login</h1><br />
-<form action="/account/login" method="post" class="needs-validation" novalidate="novalidate">
-    @Html.AntiForgeryToken()
-    <div class="form-group">
-        <label for="email">Email:</label>
-        <input type="email" class="form-control" id="Email" name="Email" required="required" value="@Model.Email" onchange="validateEmail()" style="width:50%">
-        <span id="mailId">
-        </span>
-    </div>
+    <h1>Login</h1><br/>
+                  <form action="/account/login" method="post" class="needs-validation" novalidate="novalidate" data-bind="">
+                      <input type="hidden" name="ReturnUrl" value="@ViewBag.Message" />
+                      @Html.AntiForgeryToken()
+                      <div class="form-group">
+                          <label for="email">Email:</label>
+                          <input type="email" class="form-control" id="Email" name="Email" required="required" value="@Model.Email" onchange="validateEmail()" style="width:50%">
+                          <span id="mailId">
+                          </span>
+                      </div>
 
-    <div class="form-group">
-        <label for="pwd">Password:</label>
-        <input type="password" class="form-control" id="Password" name="Password" required="required" value="@Model.Password" onchange="validatePassword()" style="width:50%">
-        <span id="password">
-        </span>
-    </div>
+                      <div class="form-group">
+                          <label for="pwd">Password:</label>
+                          <input type="password" class="form-control" id="Password" name="Password" required="required" value="@Model.Password" onchange="validatePassword()" style="width:50%">
+                          <span id="password">
+                          </span>
+                      </div>
 
-    <button class="btn btn-success">Login</button>
-    <div class="text-danger">
-        @Html.ValidationSummary()
-    </div>
+                      <button class="btn btn-success">Login</button>
+                      <div class="text-danger">
+                          @Html.ValidationSummary()
+                      </div>
 
-    <div class="nav-item">
-            <a class="nav-link" href="/account/register">Register</a>
-    </div>
-</form>
+                      <div class="nav-item">
+                          <a class="nav-link" href="/account/register">Register</a>
+                      </div>
+                  </form>

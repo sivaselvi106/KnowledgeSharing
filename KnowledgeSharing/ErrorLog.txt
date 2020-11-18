@@ -195,3 +195,84 @@ Message: The view 'https://localhost:44343/Questions/Create' or its master was n
 ~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
 Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
 Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot modify cookies after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Object reference not set to an instance of an object., Type: System.NullReferenceException, Source: App_Web_s4wuyi53
+Message: Object reference not set to an instance of an object., Type: System.NullReferenceException, Source: App_Web_s4wuyi53
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: The view 'https://localhost:44343/Questions/Create' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Account/https://localhost:44343/Questions/Create.aspx
+~/Views/Account/https://localhost:44343/Questions/Create.ascx
+~/Views/Shared/https://localhost:44343/Questions/Create.aspx
+~/Views/Shared/https://localhost:44343/Questions/Create.ascx
+~/Views/Account/https://localhost:44343/Questions/Create.cshtml
+~/Views/Account/https://localhost:44343/Questions/Create.vbhtml
+~/Views/Shared/https://localhost:44343/Questions/Create.cshtml
+~/Views/Shared/https://localhost:44343/Questions/Create.vbhtml, Type: System.InvalidOperationException, Source: System.Web.Mvc
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web
+Message: Server cannot append header after HTTP headers have been sent., Type: System.Web.HttpException, Source: System.Web

@@ -41,14 +41,15 @@ namespace KnowledgeSharing.Controllers
         }
         public ActionResult Login()
         {
-           // string ReturnUrl = Convert.ToString(Request.QueryString["url"]);
             LoginViewModel lvm = new LoginViewModel();
+            string returnUrl = Convert.ToString(Request.QueryString["url"]);
+            ViewBag.Message = returnUrl;
             return View(lvm);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Login(string ReturnUrl, LoginViewModel loginvm)
+        public ActionResult Login(LoginViewModel loginvm,string ReturnUrl)
         {
             if (ModelState.IsValid)
             {
