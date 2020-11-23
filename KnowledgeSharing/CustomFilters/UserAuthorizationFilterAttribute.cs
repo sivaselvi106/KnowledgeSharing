@@ -8,7 +8,7 @@ namespace KnowledgeSharing.CustomFilters
         {
             if (filterContext.RequestContext.HttpContext.Session["CurrentUserName"] == null)
             {
-                filterContext.Result = new RedirectToRouteResult(new System.Web.Routing.RouteValueDictionary(new { controller = "Account", action = "Login" }));
+                filterContext.Result = new RedirectToRouteResult(new System.Web.Routing.RouteValueDictionary(new { controller = "Account", action = "Login"}));
             }
         }
     }

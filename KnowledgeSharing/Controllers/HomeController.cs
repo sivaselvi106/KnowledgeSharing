@@ -38,11 +38,6 @@ namespace KnowledgeSharing.Controllers
             List<CategoryViewModel> categoriesList = categoriesService.GetCategories();
             return View(categoriesList);
         }
-        //public JsonResult PageRedirect()
-        //{
-        //    //int userId = Convert.ToInt32(Session["CurrentUserID"]);
-        //    return Json(new { Redirect = "/Account/Login" }, JsonRequestBehavior.AllowGet);
-        //}
         public ActionResult Questions()
         {
             List<QuestionViewModel> questions = this.questionService.GetQuestions();

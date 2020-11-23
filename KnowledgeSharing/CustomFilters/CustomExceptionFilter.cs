@@ -9,7 +9,7 @@ namespace KnowledgeSharing.CustomFilters
         public void OnException(ExceptionContext filterContext)
         {
             string s = "Message: " + filterContext.Exception.Message + ", Type: " + filterContext.Exception.GetType().ToString() + ", Source: " + filterContext.Exception.Source;
-            StreamWriter sw = File.AppendText(filterContext.RequestContext.HttpContext.Request.PhysicalApplicationPath + "\\ErrorLog.txt");
+            StreamWriter sw = File.AppendText(filterContext.RequestContext.HttpContext.Request.PhysicalApplicationPath + "/KnowledgeSharing/CustomFilters/ErrorLog.txt");
             sw.WriteLine(s);
             sw.Close();
             filterContext.ExceptionHandled = true;

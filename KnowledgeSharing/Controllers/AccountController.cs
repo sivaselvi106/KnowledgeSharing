@@ -5,7 +5,7 @@ using System;
 using KnowledgeSharing.CustomFilters;
 namespace KnowledgeSharing.Controllers
 {
-    //[CustomExceptionFilter]
+    [CustomExceptionFilter]
     public class AccountController : Controller
     {
         IUsersService userService;
@@ -61,15 +61,11 @@ namespace KnowledgeSharing.Controllers
                     Session["CurrentUserEmail"] = uservm.Email;
                     Session["CurrentUserPassword"] = uservm.Password;
                     Session["CurrentUserIsAdmin"] = uservm.IsAdmin;
-                   // string ReturnUrl = Convert.ToString(Request.QueryString["url"]);
-                    //string ReturnUrl = Convert.ToString(Server.UrlEncode(Request.QueryString.PathAndQuery));
                     if (uservm.IsAdmin)
                     {
-                        //return RedirectToRoute(new { controller = "Home", action = "Index" });
-                        
-                        if (!string.IsNullOrEmpty(ReturnUrl))
+                        if (!string.IsNullOrEmpty(Request.UrlReferrer.ToString()))
                         {
-                           return Redirect(ReturnUrl);
+                           return Redirect(Request.UrlReferrer.ToString());
                         }
                         else
                         {
@@ -78,10 +74,9 @@ namespace KnowledgeSharing.Controllers
                     }
                     else
                     {
-                        //return RedirectToAction("Index", "Home");
-                        if (!string.IsNullOrEmpty(ReturnUrl))
+                        if (!string.IsNullOrEmpty(Request.UrlReferrer.ToString()))
                         {
-                            return Redirect(ReturnUrl);
+                            return Redirect(Request.UrlReferrer.ToString());
                         }
                         else
                         {

@@ -7,7 +7,7 @@ using KnowledgeSharing.CustomFilters;
 
 namespace KnowledgeSharing.Controllers
 {
-   // [CustomExceptionFilter]
+    [CustomExceptionFilter]
     
     public class QuestionsController : Controller
     {
@@ -67,21 +67,23 @@ namespace KnowledgeSharing.Controllers
             }
         }
       
-       //[UserAuthorizationFilterAttribute]
+       [UserAuthorizationFilterAttribute]
         public ActionResult Create()
         {
-            if (string.IsNullOrEmpty(Convert.ToString(Session["CurrentUserID"])))
-            {
-                Response.Redirect("/Account/Login?url=" + Server.UrlEncode(Request.Url.AbsoluteUri));
-            }
-            List<CategoryViewModel> categories = this.categoriesService.GetCategories();
-            ViewBag.categories = categories;
+            //if (string.IsNullOrEmpty(Convert.ToString(Session["CurrentUserID"])))
+            //{
+            //    Response.Redirect("/Account/Login?url=" + Server.UrlEncode(Request.Url.AbsoluteUri));
+            //}
+            //else
+            //{
+                List<CategoryViewModel> categories = this.categoriesService.GetCategories();
+                ViewBag.categories = categories;
+           // }
             return View();
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        
         public ActionResult Create(NewQuestionViewModel qvm)
         {
             if (ModelState.IsValid)
